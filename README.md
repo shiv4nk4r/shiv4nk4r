@@ -1,6 +1,6 @@
 ### Hi there, I'm Shivankar - aka [shiv4nk4r][website]
 
-![](https://komarev.com/ghpvc/?username=shiv4nk4r&color=green)
+![](https://komarev.com/ghpvc/?username=shiv4nk4r&color=blue)
 
 ### I'm a student at IIID currently in final year studying computer Science and Design
 <!---
