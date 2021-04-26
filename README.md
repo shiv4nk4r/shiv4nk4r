@@ -1,6 +1,6 @@
-<p align="center" size=""30">
+<h1 align="center">
 Hello I am Shivankar, a Computer Science Engineer and a Designer
-</p>
+</h1>
 
 ![](JavaScript) ![](https://komarev.com/ghpvc/?username=shiv4nk4r&color=blue)
 
