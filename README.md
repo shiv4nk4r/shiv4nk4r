@@ -1,7 +1,7 @@
 <h1 align="center">
   Shivankar Sharma
  </h1>
-<h6 lign="center">
+<h6 align="center">
 Hello I am Shivankar, a Computer Science Engineer and a Designer
 </h6
 
